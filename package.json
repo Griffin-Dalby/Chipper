@@ -1,0 +1,34 @@
+{
+  "name": "sawdust-chipper",
+  "version": "1.0.0",
+  "description": "\"Chipper\" for Sawdust is the discord bot that supports multiple unique features for the server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Griffin-Dalby/Chipper.git"
+  },
+  "keywords": [
+    "sawdust",
+    "roblox"
+  ],
+  "author": "Griffin Dalby",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Griffin-Dalby/Chipper/issues"
+  },
+  "homepage": "https://github.com/Griffin-Dalby/Chipper#readme",
+  "dependencies": {
+    "@octokit/rest": "^22.0.0",
+    "colors": "^1.4.0",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1",
+    "node-persist": "^4.0.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "eslint": "^9.33.0"
+  }
+}
